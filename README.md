@@ -11,8 +11,7 @@ Projeto acadêmico de modelagem e implementação de banco de dados para um sist
 - DER do sistema
 - Criação inicial da database
 
---- US
-# PetShop Database
+# PetShop Database (US)
 
 Academic project focused on database modeling and implementation for a PetShop and Veterinary Clinic system.
 
